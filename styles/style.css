@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    box-sizing: border-box;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+p {
+    background-color: #1ad7d7;
+    color: #159546;
+    padding: 10px;
+    height: 100vh;
+    background: #cd1010;
+    display: flex;
+}
