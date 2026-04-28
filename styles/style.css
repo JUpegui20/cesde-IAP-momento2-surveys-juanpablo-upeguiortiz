@@ -41,6 +41,16 @@ form{
     flex-direction: column;  
     gap: 25px;                
 }
+.body-contact {
+    background: #3d12cb;
+    color: #f8f8f8;
+    padding: 20px;
+    min-height: 100vh;
+
+    display: flex;
+    flex-direction: column;  
+    gap: 25px;                
+}
 
 
 footer {
